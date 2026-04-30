@@ -1,3 +1,7 @@
+# Ignorar arquivos de configuração do IntelliJ IDEA
+*.iml
+*.idea/
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
